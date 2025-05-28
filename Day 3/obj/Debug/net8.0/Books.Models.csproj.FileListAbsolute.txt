@@ -1,0 +1,11 @@
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\bin\Debug\net8.0\Books.Models.deps.json
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\bin\Debug\net8.0\Books.Models.dll
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\bin\Debug\net8.0\Books.Models.pdb
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\Books.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\Books.Models.AssemblyInfoInputs.cache
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\Books.Models.AssemblyInfo.cs
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\Books.Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\Books.Models.dll
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\refint\Books.Models.dll
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\Books.Models.pdb
+C:\Users\LENOVO (233580)\Downloads\Book_Management\Book_Management\Books.Models\obj\Debug\net8.0\ref\Books.Models.dll
